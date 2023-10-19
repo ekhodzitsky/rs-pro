@@ -1,0 +1,10 @@
+[package]
+name = "task_6"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+[lib]
+name = "smart_house"
+path = "src/lib.rs"
